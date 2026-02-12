@@ -3,9 +3,9 @@
     <string name="app_name">google_auth</string>
 
 
-    <string name="facebook_app_id">2297291124086807</string>
-    <string name="fb_login_protocol_scheme">fb2297291124086807</string>
-    <string name="facebook_client_token">b6916b3ba73e2b7c477d17711830d5fb</string>
+    <string name="facebook_app_id">5432</string>
+    <string name="fb_login_protocol_scheme">fb22972911240853426807</string>
+    <string name="facebook_client_token">b6916b3ba73e2b7c477d453232132117711830d5fb</string>
 
 </resources>
 
